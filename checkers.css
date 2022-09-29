@@ -1,0 +1,16 @@
+td {
+    background-color: chartreuse;
+    text-align: center;
+    width: 65px;
+    height: 65px;
+}
+
+.nopiecehere {
+    background-color: floralwhite;
+}
+
+.center-item {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
