@@ -21,4 +21,3 @@ let turn = true;
 let blacktrun = 12;
 let redturn = 12;
 let playerpieces;
-
