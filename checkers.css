@@ -6,11 +6,39 @@ td {
 }
 
 .nopiecehere {
-    background-color: floralwhite;
+    background-color:rgb(201, 201, 218);
 }
 
 .center-item {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+.red-piece {
+    width: 20px;
+    height: 20px;
+    padding: 12px;
+    margin-left:6px;
+    background-color: black;
+    border-radius: 50px;
+    border: 5px solid white;
+}
+
+.black-piece {
+    width: 20px;
+    height: 20px;
+    padding: 12px;
+    margin-left:6px;
+    background-color: red;
+    border-radius: 50px;
+    border: 5px solid white;
+}
+
+.black-king {
+    background-color: darkmagenta;
+}
+
+.red-king {
+    background-color: rgb(91, 16, 221);
 }
