@@ -42,3 +42,10 @@ td {
 .red-king {
     background-color: rgb(91, 16, 221);
 }
+
+.change-red {
+    background-color: black;
+}
+.change-black {
+    background-color: rgb(248, 13, 13);
+}
