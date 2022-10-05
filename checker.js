@@ -8,7 +8,7 @@ const game = [null, 0, null, 1, null, 2, null, 3,
     20, null, 21, null, 22, null, 23, null
 ]
 
-// DOM model
+// DOM model for this game
 
 const cell = document.querySelectorAll('td')
 let redpiece = document.querySelectorAll('h5')
